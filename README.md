@@ -42,3 +42,11 @@ Reduces overfitting, improving generalization to unseen data.
 * Decoder Refinements:
 
 Combining low-level features (which have high spatial resolution but low semantic content) with high-level features (which have high semantic content but lower resolution) helps in better boundary delineation and segmentation accuracy.
+
+# Implementations
+
+For some real world applications of these DeepLab Variations please refer to the following notebooks.
+
+https://www.kaggle.com/code/diegoexe/enhanced-deeplab-carla-image-semantic-segmentation
+
+
