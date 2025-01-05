@@ -5,7 +5,7 @@ The DeepLabv3+ is a semantic segmentation architecture that improves upon DeepLa
 
 ![image](https://github.com/user-attachments/assets/e3ad07c9-40df-46e0-aa07-1c85efd0ce77)
 
-The present repository provides some variations and enhancements of the DeepLabV3+ using the Tensorflow library. Some of the enhancements present in the proposed models include but are not limited to:
+The present repository provides some variations and enhancements of the DeepLabV3+ using the Tensorflow library (Version 2.4.1). Some of the enhancements present in the proposed models include but are not limited to:
 
 * Adjusted ASPP Dilation Rates:
 
